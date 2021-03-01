@@ -1,4 +1,7 @@
-<b> Study on ms-sql-server </b><br/>
+# MSSQL-Server
+
+### Python scripts in MSSQL
+### SQL
 
 1) Create and Alter table
 2) Coalesce
